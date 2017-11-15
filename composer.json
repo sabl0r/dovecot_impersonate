@@ -16,7 +16,7 @@
           "email": "cor@roundcu.be",
           "issues": "https://github.com/corbosman/dovecot_impersonate/issues"
       },
-  "require": {
+  "require-dev": {
           "curl/curl": "dev-master"
   }
 }
